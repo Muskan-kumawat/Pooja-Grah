@@ -1,5 +1,5 @@
 # PoojaGrah - Website for booking pandit for an auspicious pooja</u>
-## Contributors 😎 <p align="center"> 
+
 
 
 ## Click on green colored "code" button on top left of folders & click on "download as zip"
