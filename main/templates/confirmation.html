@@ -82,7 +82,7 @@
                 <form method="post" action="">{% csrf_token %}
                     <div class="input-group border px-5 py-3">
                         <span class="input-group-text">Enter OTP</span>
-                        <input type="number" aria-label="First name" class="form-control" name="mySecreteKey" placeholder="Enter OTP" min="99999" max="1000000">
+                        <input type="text" aria-label="First name" class="form-control" name="mySecreteKey" placeholder="Enter OTP" min="99999" max="1000000">
                         <button class="btn btn-primary" type="submit">Submit</button>
                     </div>
                     {% for message in messages %}
